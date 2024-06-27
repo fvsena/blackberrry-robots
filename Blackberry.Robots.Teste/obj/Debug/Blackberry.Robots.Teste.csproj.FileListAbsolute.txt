@@ -1,0 +1,9 @@
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Teste\bin\Debug\Blackberry.Robots.Teste.exe.config
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Teste\bin\Debug\Blackberry.Robots.Teste.exe
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Teste\bin\Debug\Blackberry.Robots.Teste.pdb
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Teste\bin\Debug\Blackberry.Robots.Ifood.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Teste\bin\Debug\Blackberry.Robots.Ifood.pdb
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Teste\obj\Debug\Blackberry.Robots.Teste.csprojAssemblyReference.cache
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Teste\obj\Debug\Blackberry.Robots.Teste.csproj.CopyComplete
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Teste\obj\Debug\Blackberry.Robots.Teste.exe
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Teste\obj\Debug\Blackberry.Robots.Teste.pdb

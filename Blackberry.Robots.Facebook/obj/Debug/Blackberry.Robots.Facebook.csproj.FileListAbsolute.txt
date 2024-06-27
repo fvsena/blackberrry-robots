@@ -1,0 +1,10 @@
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\bin\Debug\Blackberry.Robots.Facebook.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\bin\Debug\Blackberry.Robots.Facebook.pdb
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\bin\Debug\WebDriver.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\bin\Debug\WebDriver.xml
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\obj\Debug\Blackberry.Robots.Facebook.csproj.CopyComplete
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\obj\Debug\Blackberry.Robots.Facebook.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\obj\Debug\Blackberry.Robots.Facebook.pdb
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Facebook\obj\Debug\Blackberry.Robots.Facebook.csprojAssemblyReference.cache

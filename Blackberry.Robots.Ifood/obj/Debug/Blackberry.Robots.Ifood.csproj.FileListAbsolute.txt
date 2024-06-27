@@ -1,0 +1,5 @@
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Ifood\obj\Debug\Blackberry.Robots.Ifood.csprojAssemblyReference.cache
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Ifood\bin\Debug\Blackberry.Robots.Ifood.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Ifood\bin\Debug\Blackberry.Robots.Ifood.pdb
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Ifood\obj\Debug\Blackberry.Robots.Ifood.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Ifood\obj\Debug\Blackberry.Robots.Ifood.pdb

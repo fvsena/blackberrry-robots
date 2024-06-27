@@ -1,0 +1,11 @@
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\bin\Debug\Blackberry.Robots.Interface.exe.config
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\bin\Debug\Blackberry.Robots.Interface.exe
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\bin\Debug\Blackberry.Robots.Interface.pdb
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\bin\Debug\Blackberry.Robots.Facebook.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\bin\Debug\WebDriver.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\bin\Debug\Blackberry.Robots.Facebook.pdb
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\bin\Debug\WebDriver.xml
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\obj\Debug\Blackberry.Robots.Interface.csprojAssemblyReference.cache
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\obj\Debug\Blackberry.Robots.Interface.csproj.CopyComplete
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\obj\Debug\Blackberry.Robots.Interface.exe
+C:\Users\felipe.sena\source\repos\Blackberry.Robots\Blackberry.Robots.Interface\obj\Debug\Blackberry.Robots.Interface.pdb
